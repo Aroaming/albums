@@ -12,3 +12,14 @@
 
 # Project-local glide cache, RE: https://github.com/Masterminds/glide/issues/736
 .glide/
+/albums
+albums
+logs/
+filecache/
+.DS_Store
+
+.DS_Store
+
+sftp-config.json
+
+testdata/example_06.jpg
